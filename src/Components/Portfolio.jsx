@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/portfolio-desk-image.jpg";
+import image from "../images/porfolio-desk-image.jpg";
 
 const imageAltText = "desktop with a laptop with written code in it.";
 
@@ -31,28 +31,27 @@ const imageAltText = "desktop with a laptop with written code in it.";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "landing page with HTML and CSS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple website showcasing my HTML and CSS skills. This project was inspired by the odin project.",
+    url: "https://github.com/ahmedn18/landing-page",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Infix to Postfix Expression Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A program designed to perform as a calculator to evaluate mathematical expression using the Shunting Yard Algorithm.",
+    url: "https://github.com/ahmedn18/Infix-to-Postfix-Calculator",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "A Recipe Website",
+    description: "A very simple recipe website that I created using HTML and CSS.",
+    url: "https://github.com/ahmedn18/odin-recipes",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My leetcode solutions",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A collection of my solutions to leetcode problems. I use this repository to keep track of my progress in competitive programming.",
+    url: "https://github.com/ahmedn18/my-leetcode-solutions",
   },
 ];
 
