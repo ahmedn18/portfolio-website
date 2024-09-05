@@ -27,12 +27,12 @@ const siteProps = {
   name: "Ahmed Nader",
   title: "Web Developer & Passionate Learner",
   email: "es-ahmed.nader2027@alexu.edu.eg",
-  gitHub: "https://github.com/ahmedn18",
-  instagram: "https://www.instagram.com/ahmednader_18/",
-  linkedIn: "https://www.linkedin.com/in/ahmed-nader-9a11262b5",
-  medium: "https://medium.com/@ahmednooda123",
-  twitter: "https://x.com/Noodax161",
-  youTube: "https://www.youtube.com/@ahmednaderb3324",
+  gitHub: "ahmedn18",
+  instagram: "ahmednader_18/",
+  linkedIn: "ahmed-nader-9a11262b5",
+  medium: "@ahmednooda123",
+  twitter: "Noodax161",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
